@@ -1,0 +1,6 @@
+
+nameserver.id=400
+nameserver.port=8081
+
+bnserver.ip=192.168.1.187
+bnserver.port=8080
